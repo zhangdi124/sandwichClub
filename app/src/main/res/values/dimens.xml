@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    /**
+    Created by DI Ioffe on 4/28/2018.
+    */
+    <dimen name="detail_col_width">150dp</dimen>
+    <dimen name="detail_label_width">200dp</dimen>
+    <dimen name="detail_grid_width">350dp</dimen>
+    <dimen name="field_label_size">20sp</dimen>
+
+</resources>
